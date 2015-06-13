@@ -2,14 +2,14 @@
  Refer to http://source.android.com/source/downloading.html
  $ repo init -u https://android.googlesource.com/platform/manifest -b android-5.1.1_r4
  $ cd .repo
- $ git clone https://github.com/peyo-hd/local_manifests
+ $ git clone https://github.com/thatbakerguy/local_manifests
  $ repo sync
  
 # Build for Intel box
  See https://github.com/peyo-hd/device_x86_ibox
 
 # Build for RaspberryPi 2
- See https://github.com/peyo-hd/device_brcm_rpi2
+ See https://github.com/thatbakerguy/device_brcm_rpi2
 
 # Build for Odroid C1
  See https://github.com/peyo-hd/device_aml_odrc
